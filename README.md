@@ -1,2 +1,2 @@
 # projects
-#contains the projects referred in the resume or cv.
+#contains the projects referred in the resume.
