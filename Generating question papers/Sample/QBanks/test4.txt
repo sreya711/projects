@@ -1,0 +1,463 @@
+\begin{type=mcq}
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" \\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" \\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional" \\  "object-based"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" \\ "functional" & "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"\\ "functional"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based" \\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"\\  "object-based" &"object-oriented" & "imperative" 
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative" \\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" \\ "object-oriented" & "object-based"
+    \end{question}
+
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" \\ "functional" 
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" \\ "functional" & "object-based" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\  "imperative" & "functional" \\  "object-based"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" \\ "functional" &  "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "imperative"  & "object-based"\\ "functional"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" \\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"\\  "object-based" &"object-oriented"
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented" & "functional" & "imperative"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" \\ "object-based"
+    \end{question}
+
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "object-based"\\
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?1" \\ "object-oriented" \\ "imperative" 
+    \end{question}
+    
+    \begin{question;4.0}
+        "What kind of coding language is C?2" \\ "imperative" \\ "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?3" \\ "imperative" \\ "functional" 
+    \end{question}
+    
+    \begin{question;3.5}
+        "What kind of coding language is C?4" \\ "object-oriented" \\ "functional"
+    \end{question}
+    
+    \begin{question;4.5}
+        "What kind of coding language is C?5" \\ "object-oriented" & "imperative"\\
+    \end{question}
+    
+    \begin{question;1.5}
+        "What kind of coding language is C?6" \\ "object-oriented" \\ "functional"
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?7" \\ "imperative" \\"object-oriented"
+    \end{question}
+    
+    \begin{question;2.0}
+        "What kind of coding language is C?8" \\ "functional" & "object-based"\\
+    \end{question}
+
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" \\ "functional" & "object-based" & "a"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" & "a"\\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.5}
+        "What kind of coding language is C?2" \\ "object-oriented"& "a" \\ "functional" & "object-based" & "imperative" & "a"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" & "object-oriented" &"functional" & "object-based" & "a"\\
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?4" \\  "imperative" & "a" \\ "object-oriented" &"functional" & "object-based"
+    \end{question}
+    
+    \begin{question;5.0}
+        "What kind of coding language is C?5" \\ "object-oriented" & "imperative" \\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?6"  \\ "functional" & "object-based" \\ "object-oriented" & "imperative" &"a"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?7"  \\ "A"&"functional" & "object-based"\\ "object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;5.5}
+        "What kind of coding language is C?8" \\ "object-oriented" & "imperative" & "a" \\ "functional" & "object-based"
+    \end{question}
+
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" &"a" &"b" \\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" \\ "functional" & "object-based" & "imperative" &"a" &"b"
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional" \\  "object-based"&"a" &"b"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" &"a" &"b"\\ "functional" & "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"\\ "functional"&"a" &"b"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based" &"a" &"b"\\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"&"a" &"b"\\  "object-based" &"object-oriented" & "imperative" 
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative"&"a" &"b"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" &"a" &"b"\\ "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" &"a" &"b"&"c"\\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" &"a" &"b"&"c"\\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional" \\  "object-based"&"a" &"b"&"c"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative"&"a" &"b"&"c" \\ "functional" & "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"&"a" &"b"&"c"\\ "functional"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based" \\"object-oriented" & "imperative"&"a" &"b"&"c"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"\\  "object-based" &"object-oriented" & "imperative" &"a" &"b"&"c"
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative"&"a" &"b"&"c"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" &"a" &"b"&"c"\\ "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative"&"a" &"b"&"c"&"d" \\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" &"a" &"b"&"c"&"d"\\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional" \\  "object-based"&"a" &"b"&"c"&"d"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative"&"a" &"b"&"c"&"d" \\ "functional" & "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"\\ "functional"&"a" &"b"&"c"&"d"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based" &"a" &"b"&"c"&"d"\\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"\\  "object-based" &"object-oriented" & "imperative" &"a" &"b"&"c"&"d"
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative"&"a" &"b"&"c"&"d"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" &"a" &"b"&"c"&"d"\\ "object-oriented" & "object-based"
+    \end{question}
+
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" &"a" &"b"&"c"&"d" &"e"\\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" &"a" &"b"&"c"&"d" &"e"\\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional"&"a" &"b"&"c"&"d" &"e" \\  "object-based"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" \\ "functional" & "object-oriented" & "object-based"&"a" &"b"&"c"&"d" &"e"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"\\ "functional"&"a" &"b"&"c"&"d" &"e"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based" &"a" &"b"&"c"&"d" &"e"\\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"\\  "object-based" &"object-oriented" & "imperative" &"a" &"b"&"c"&"d" &"e"
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative"&"a" &"b"&"c"&"d" &"e"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" &"a" &"b"&"c"&"d" &"e"\\ "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;2.0}
+        "What kind of coding language is C?" \\ "object-oriented" & "imperative" &"a" &"b"&"c"&"d" &"e"&"f"\\ "functional" & "object-based"
+    \end{question}
+    
+    \begin{question;2.5}
+        "What kind of coding language is C?1" \\ "object-oriented" &"a" &"b"&"c"&"d" &"e"&"f"\\ "functional" & "object-based" & "imperative" 
+    \end{question}
+    
+    \begin{question;1.0}
+        "What kind of coding language is C?2" \\ "object-oriented" & "imperative" & "functional" \\  "object-based"&"a" &"b"&"c"&"d" &"e"&"f"
+    \end{question}
+    
+    \begin{question;3.0}
+        "What kind of coding language is C?3" \\  "imperative" &"a" &"b"&"c"&"d" &"e"&"f"\\ "functional" & "object-oriented" & "object-based"
+    \end{question}
+    
+    \begin{question;6.0}
+        "What kind of coding language is C?4" \\ "object-oriented" & "imperative"  & "object-based"\\ "functional"&"a" &"b"&"c"&"d" &"e"&"f"
+    \end{question}
+    
+    \begin{question;7.0}
+        "What kind of coding language is C?5" \\"functional" & "object-based"&"a" &"b"&"c"&"d" &"e"&"f" \\"object-oriented" & "imperative"
+    \end{question}
+    
+    \begin{question;9.4}
+        "What kind of coding language is C?6" \\ "functional"&"a" &"b"&"c"&"d" &"e"&"f"\\  "object-based" &"object-oriented" & "imperative" 
+    \end{question}
+    
+    \begin{question;112.0}
+        "What kind of coding language is C?7" \\ "object-oriented"  & "object-based" & "functional" & "imperative"&"a" &"b"&"c"&"d" &"e"&"f"\\
+    \end{question}
+    
+    \begin{question;2.002}
+        "What kind of coding language is C?8" \\  "functional" &"imperative" &"a" &"b"&"c"&"d" &"e"&"f" \\ "object-oriented" & "object-based"
+    \end{question}
+\end{type}
+
+\begin{type=fitb}
+    \begin{question;3.0}
+        "C Why is is a _____ language." \\ "imperative"
+    \end{question}
+
+    \begin{question;4.0}
+        "Why is C is a _____ language.1" \\ "good"
+    \end{question}
+
+    \begin{question;2.0}
+        "Why is C is a _____ language.2" \\ "bad"
+    \end{question}
+
+    \begin{question;2.2}
+        "Why is C is a _____ language.3" \\ "vgood"
+    \end{question}
+
+    \begin{question;6.0}
+        "Why is C is a _____ language.4" \\ "vbad"
+    \end{question}
+
+    \begin{question;7.0}
+        "Why is C is a _____ language.5" \\ "a"
+    \end{question}
+
+    \begin{question;1.0}
+        "Why is C is a _____ language.6" \\ "b"
+    \end{question}
+
+    \begin{question;13.0}
+        "Why is C is a _____ language.7" \\ "c"
+    \end{question}
+
+    \begin{question;5.6}
+        "Why is C is a _____ language.8" \\ "d"
+    \end{question}
+
+    \begin{question;35.0}
+        "Why is C is a _____ language.9" \\ "e"
+    \end{question}
+
+    \begin{question;7.10}
+        "Why is C is a _____ language.10" \\ "f"
+    \end{question}
+
+    \begin{question;4.10}
+        "Why is C is a _____ language.11" \\ "g"
+    \end{question}
+
+    \begin{question;4.8}
+        "C Why is is a _____ language.12" \\ "h"
+    \end{question}   
+\end{type}
+
+\begin{type=num}
+    \begin{question;5.0}
+        "How many years ago was C created?" \\ 52
+    \end{question}
+
+    \begin{question;3.0}
+        "How many years ago was C created?1" \\ 53
+    \end{question}
+
+    \begin{question;2.0}
+        "How many years ago was C created?2" \\ 54
+    \end{question}
+
+    \begin{question;1.0}
+        "How many years ago was C created?3" \\ 55
+    \end{question}
+
+    \begin{question;4.0}
+        "How many years ago was C created?4" \\ 56
+    \end{question}
+
+    \begin{question;6.0}
+        "How many years ago was C created?5" \\ 57
+    \end{question}
+
+    \begin{question;7.0}
+        "How many years ago was C created?6" \\ 58
+    \end{question}
+
+    \begin{question;5.5}
+        "How many years ago was C created?7" \\ 59
+    \end{question}
+
+    \begin{question;2.5}
+        "How many years ago was C created?8" \\ 521
+    \end{question}
+
+    \begin{question;3.5}
+        "How many years ago was C created?9" \\ 522
+    \end{question}
+
+    \begin{question;4.5}
+        "How many years ago was C created?10" \\ 523
+    \end{question}  
+\end{type}
+
+\begin{type=tf}
+    \begin{question;1.0}
+             "C is a functional language." \\ F
+    \end{question}
+
+    \begin{question;2.0}
+             "C is a functional language.1" \\ T
+    \end{question}
+
+    \begin{question;3.0}
+             "C is a functional language2." \\ F
+    \end{question}
+
+    \begin{question;1.5}
+             "C is a functional language.3" \\ F
+    \end{question}
+
+    \begin{question;1.0}
+             "C is a functional language4." \\ T
+    \end{question}
+
+    \begin{question;2.5}
+             "C is a functional language5." \\ F
+    \end{question}
+
+    \begin{question;3.5}
+             "C is a functional language.6" \\ T
+    \end{question}
+
+    \begin{question;7.0}
+             "C is a functional language.7" \\ F
+    \end{question}
+
+    \begin{question;5.0}
+             "C is a functional language.8" \\ T
+    \end{question}
+\end{type}

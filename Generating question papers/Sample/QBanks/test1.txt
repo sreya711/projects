@@ -1,0 +1,101 @@
+\begin{type=mcq}
+    \begin{question;2.0}
+        "When is the lab exam?" \\ "6th May" \\ "8th May" & "28th April" & "3rd May"
+    \end{question}
+    \begin{question;5.0}
+        "What is the int[] type in C equivalent to?" \\ "const *int" \\ "*const int" & "const int" & "*int"
+    \end{question}
+    \begin{question;3.0}
+        "Who wrote War and peace?" \\ "Leo Tolstoy" \\ "PG Wodehouse" & "Vikram Seth" & "Douglas Adams"
+    \end{question}
+    \begin{question;1.0}
+        "Which is the capital of India?" \\ "New Delhi" \\ "Thiruvananthapuram" & "Indore" & "Bangalore"
+    \end{question}
+    \begin{question;2.5}
+        "Who wrote 'Gone With the Wind'?" \\ "Margaret Mitchell" \\ "Agatha Christie" & "Oscar Wilde" & "Shakespeare"
+    \end{question}
+    \begin{question;3.5}
+        "What is a nearly complete binary tree?" \\ "heap" \\ "stack" & "queue" & "priority queue"
+    \end{question}
+    \begin{question;0.5}
+        "Who formulated the laws of gravity?" \\ "Newton" \\ "Einstein" & "Feynman" & "Dirac"
+    \end{question}
+\end{type}
+
+\begin{type=fitb}
+    \begin{question;2.0}
+        "The lab exam is on _____." \\ "6th May"
+    \end{question}
+    \begin{question;5.0}
+        "The int[] type in C is equivalent to ______." \\ "const *int"
+    \end{question}
+    \begin{question;3.0}
+        "_____ wrote War and Peace." \\ "Leo Tolstoy"
+    \end{question}
+    \begin{question;1.0}
+        "_____ is the capital of India." \\ "New Delhi"
+    \end{question}
+    \begin{question;2.5}
+        "_____ wrote 'Gone With the Wind'." \\ "Margaret Mitchell"
+    \end{question}
+    \begin{question;3.5}
+        "A _____ is a nearly complete binary tree." \\ "heap"
+    \end{question}
+    \begin{question;0.5}
+        "_____ formulated the laws of gravity." \\ "Newton"
+    \end{question}
+\end{type}
+
+\begin{type=num}
+    \begin{question;2.0}
+        "What date is the lab exam on?" \\ 6
+    \end{question}
+    \begin{question;2.5}
+        "How many eigenvalues does the 5x5 identity matrix have?" \\ 5
+    \end{question}
+    \begin{question;3.0}
+        "How many bytes in a kilobyte?" \\ 1024
+    \end{question}
+    \begin{question;3.0}
+        "How many books are there in the Harry Potter series?" \\ 8
+    \end{question}
+    \begin{question;2.5}
+        "How many letters are there in the Hindi varnamala?" \\ 48
+    \end{question}
+    \begin{question;1.5}
+        "How many gods are there in the Greek pantheon?" \\ 12
+    \end{question}
+    \begin{question;2.0}
+        "Which year is it now?" \\ 2021
+    \end{question}
+    \begin{question;2.5}
+        "What is 17^2?" \\ 289
+    \end{question}
+\end{type}
+        
+\begin{type=tf}
+    \begin{question;2.0}
+        "Today is Wednesday my dudes." \\ T
+    \end{question}
+    \begin{question;3.5}
+        "Tortoises and turtles are the same." \\ F
+    \end{question}
+    \begin{question;1.5}
+        "Mac is best." \\ T
+    \end{question}
+    \begin{question;1.0}
+        "Symmetric matrices have an orthonormal eigenvalue basis." \\ T
+    \end{question}
+    \begin{question;2.5}
+        "Term 3 will be chill." \\ F
+    \end{question}
+    \begin{question;0.5}
+        "Physics is a scam." \\ T
+    \end{question}
+    \begin{question;2.0}
+        "Shakespeare wrote 'A Comedy of Errors.'" \\ T
+    \end{question}
+    \begin{question;0.0}
+        "IIIT is better than IIT." \\ T
+    \end{question}
+\end{type}

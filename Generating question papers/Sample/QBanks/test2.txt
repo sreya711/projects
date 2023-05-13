@@ -1,0 +1,59 @@
+\begin{type=mcq}
+    \begin{question;3.0}
+        "how much break we need after this term ?"\\ "1 month" \\ "2 month" & "3 month" & "100 months"
+    \end{question}
+    \begin{question;2.0}
+        "when will this pandemic end?"\\ "1 year"\\ "2 year" & "10 years" & "never"
+    \end{question}
+    \begin{question;1.0}
+        "who is prime minister of india?"\\ "mudi" \\ "pappu" & "kejri" & "ambani"
+    \end{question}
+    \begin{question;4.0}
+        "where is iiit-hyderabad?"\\ "hyderabad" \\ "delhi" & "china" & "italy"
+    \end{question}
+\end{type}
+
+\begin{type=fitb}
+    \begin{question;3.0}
+        "how much break we need after this term ?"\\ "1 months"
+    \end{question}
+    \begin{question;2.0}
+        "when will this pandemic end?"\\ "1 year"
+    \end{question}
+    \begin{question;1.0}
+        "who is prime minister of india?"\\ "mudi"
+    \end{question}
+    \begin{question;4.0}
+        "where is iiit-hyderabad?"\\ "hyderabad"
+    \end{question}
+\end{type}
+
+\begin{type=num}
+    \begin{question;1.0}
+        "how many year it takes to complete btech?" \\ 4
+    \end{question}
+        \begin{question;2.0}
+    "when do we have our mid evals?" \\ 29
+        \end{question}
+    \begin{question;3.0}
+        "when a person can get a driving license?" \\ 18
+    \end{question}
+    \begin{question;4.0}
+        "when do we have our next general election?" \\ 2024
+    \end{question}
+\end{type}
+
+\begin{type=tf}
+    \begin{question;1.0}
+        "rcb will win this year ipl?" \\ F
+    \end{question}
+        \begin{question;2.0}
+    "this year college will open" \\ T
+        \end{question}
+    \begin{question;3.0}
+        "corona virus has nothing to do with china" \\ F 
+    \end{question}
+    \begin{question;4.0}
+        "we shouldnot cheat in exams" \\ F 
+    \end{question}
+\end{type}

@@ -1,0 +1,74 @@
+\begin{type=mcq}
+    \begin{question;1.0}
+        "Cow has __ number of legs"\\"4"\\"2"&"1"&"5"&"3"
+    \end{question}
+    \begin{question;2.8}
+        "Reminder obtained when 1 is divided by 2 is"\\"2"\\"1"&"0.5"&"6"&"0"
+    \end{question}
+    \begin{question;1.2}
+        "Which of the following are parts of a computer"\\"monitor"&"keyboard"&"mouse"\\"cat"&"chlorophyll"&"brain"&"heart"
+    \end{question}
+    \begin{question;2.0}
+        "The pronoun HER is referred to address __"\\"a girl"&"woman"\\"aboy"&"a bunch of people"&"nobody"&"everybody"&"man"
+    \end{question}
+    \begin{question;4.7}
+        "What of the following are possible colours of the sky"\\"blue"&"black"&"orange"\\"pink"&"purple"&"green"&"silver"
+    \end{question}
+    \begin{question;3.0}
+        "Which of the following is a 4 letter word"\\"cows"&"them"&"bulls"\\"cat"&"monkeys"&"kitkat"
+    \end{question}
+\end{type}
+
+\begin{type=fitb}
+    \begin{question;1.0}
+        "The sum of 2+4 is"\\"6"
+    \end{question}
+    \begin{question;3.2}
+        "The sun sets in the __"\\"west"
+    \end{question}
+    \begin{question;2.5}
+        "Winters are __"\\"cold"
+    \end{question}
+    \begin{question;1.5}
+        "They went out _ play"\\"to"
+    \end{question}
+\end{type}
+
+\begin{type=num}
+    \begin{question;1.0}
+        "The product of 2 and 3 is"\\6
+    \end{question}
+    \begin{question;2.3}
+        "Number of the eyes a healthy dog has"\\2
+    \end{question}
+    \begin{question;3.2}
+        "(2+3)*2"\\12
+    \end{question}
+    \begin{question;4.0}
+        "Binary representation of 2"\\10
+    \end{question}
+    \begin{question;5.6}
+        "Number of isomers of propane"\\2
+    \end{question}
+\end{type}
+
+\begin{type=tf}
+    \begin{question;1.0}
+        "Hens lay eggs"\\t
+    \end{question}
+    \begin{question;2.2}
+        "Lizards are reptiles"\\t
+    \end{question}
+    \begin{question;3.4}
+        "Sun is a planet"\\f
+    \end{question}
+    \begin{question;1.8}
+        "Sun rises in the east"\\t
+    \end{question}
+    \begin{question;4.1}
+        "Jupiter is larger than the sun"\\f
+    \end{question}
+    \begin{question;5.0}
+        "Pluto is a planet"\\f
+    \end{question}
+\end{type}

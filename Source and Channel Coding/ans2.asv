@@ -1,0 +1,46 @@
+clear;
+n=15;
+k=10;
+p=0.015;
+
+c=zeros(5,2^k);                 % initialising the code arry of 5 code of same n,k,p
+E=zeros(1,5);
+N=500;
+
+for j=1:5
+    a=0;
+    c(j,:)=abs(floor(2^n.*rand(1,2^k)));
+    for z=1:2^k
+        code(z)=decimalToBinaryVector(c(j,z),n);
+    end
+
+% c1=unique(c(j,:));
+
+    for z=1:N
+        num_ind=floor(rand()*2^k);
+        bits=decimalToBinaryVector(c(j,num_ind),n);
+        bits1=bits;
+        for x=1:n
+            num=rand();                 % simulating BSC
+            if num<p
+                bits=bitcmp(bits(x));
+            end
+        end
+        dist=zeros(1,2^k);
+        for x=1:2^k
+            for y=1:n
+                dist(x)=dist(x)+abs(bits(y)-bits1(y));
+            end
+        end
+        [min_val,min_ind]=min(dist);
+        bits2=code(min_ind);
+        if min_val>0
+            E(j)=E(j)+1;
+        end
+    end
+    E(j)=E(j)/N;
+end
+Pe=min(E);
+        
+        
+        

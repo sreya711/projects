@@ -1,0 +1,7 @@
+\sample{type=mcq(3)}{#=5}{diff in 0,10.5}
+\sample{type=mcq(7)}{#=4}{diff in 1.5,8}
+\sample{type=mcq(8)}{#=2}{diff in 4.5,9.5}
+\sample{type=mcq(10)}{#=2}{diff in 2.5,1000.5}
+\sample{type=fitb}{#=4}{diff in 1.0,6.0}
+\sample{type=tf}{#=3}{diff in 2.5,7.0}
+\sample{type=num}{#=3}{diff in 0.0,100.0}

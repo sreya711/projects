@@ -1,0 +1,145 @@
+% finding the ascii value of the char entered and then increamenting the
+% respective index in th storasge array. then using all the values, find
+% the probability distribution and make a hamming code for it. total
+% charcters:128
+% a 256X128 matrix which have 1 where the column no has the row no as its
+% children. all M[i,j]=0 initially.
+clear;
+fi=fopen("File__2.txt",'r');
+
+a=fscanf(fi,"%c");  % a contains all the scanned characters
+
+asc=double(a);      % ascii value of all scanned chars
+
+storage=zeros(1,128);   % stores the freq of tht char with ascii = ind-1
+
+for z=1:length(asc)
+    storage(asc(z)+1)=storage(asc(z)+1)+1;  % calculating storage
+end
+
+total_char=sum(storage);   % total number of chars present
+pd=storage./total_char;     % contains the probability of every char
+% pd1=pd;
+pd=[pd ,ones(1,128)];       % adding 128 dummy nodes with their prob = 1
+parent=zeros(128+128,128);
+pind=129;
+depth=zeros(1,128+128);
+
+while(min(pd)~=1)
+   [min_val1,min_ind1]=min(pd);     % 1st min value
+   p_prob=min_val1;
+   parent(min_ind1,pind-128)=1;
+   pd(min_ind1)=1;
+   
+   [min_val2,min_ind2]=min(pd);     % 2nd min value
+   p_prob=p_prob+min_val2;
+   parent(min_ind2,pind-128)=1;
+   pd(min_ind2)=1;
+   
+   pd(pind)=p_prob;                 %parent dummy node upadate
+   
+   pind=pind+1;                    %incrmenting pind
+end
+
+pind=pind-1;
+root=pind;                      % copies needed during codeword formation
+parent1=parent;                 % copies needed during codeword formation
+parent2=parent;                 % copy needed during decoding
+parent3=parent;
+depth(pind)=0;                      % intializing the depth to zero
+
+while(pind>128)
+    [max_val1,max_ind1]=max(parent(:,pind-128));  %1st child
+    parent(max_ind1,pind-128)=0;
+    
+    [max_val2,max_ind2]=max(parent(:,pind-128));  %2nd child
+    parent(max_ind2,pind-128)=0;
+        
+    depth(max_ind1)=depth(pind)+1;      % giving their depths
+    depth(max_ind2)=depth(pind)+1;
+
+    pind=pind-1;                % decrementing pind
+end
+
+lengths=depth(1,1:1:128);    
+
+codewords=zeros(1,128+128);
+codewords(root)=1;              % 1->dummy codeword alphabet at the beginning of every codeword
+pind=root;
+
+while(pind>128)
+[max_val1,max_ind1]=max(parent1(:,pind-128));  %1st child
+parent1(max_ind1,pind-128)=0;
+    
+[max_val2,max_ind2]=max(parent1(:,pind-128));  %2nd child
+parent1(max_ind2,pind-128)=0;
+
+codewords(max_ind1)=2*codewords(pind);      % giving codewords to children
+codewords(max_ind2)=codewords(max_ind1)+1;
+
+pind=pind-1;                    % decrementing pind
+end
+
+code=codewords(1:1:128);
+fi2=fopen('File_2_Hcode.txt','w');
+encoder=2.*ones(128,30);
+
+for z=1:128
+   temp=de2bi(code(z),'left-msb');
+   [max_val,max_ind]=max(temp);
+   fprintf(fi2,"%3d ",z-1);
+   for q=max_ind+1:length(temp)
+       encoder(z,q-max_ind)=temp(q);
+       fprintf(fi2,"%d",temp(q));
+   end
+   fprintf(fi2,'\n');
+end
+
+fi3=fopen('File_2_encode.txt','w');
+for z=1:length(asc)
+   for k=1:length(encoder(asc(z),:))
+       if(encoder(asc(z),k)==2)
+       break;
+       end
+       fprintf(fi3,"%d",encoder(asc(z),k));
+   end
+end
+
+fi4=fopen('File_2_encode.txt','r');
+a_read=fscanf(fi4,"%1d");
+
+fi5=fopen('File_2_decode.txt','w');
+
+pind=root;                     % needed during decoding
+
+for z=1:length(a_read)
+    [max_val1,max_ind1]=max(parent2(:,pind-128));
+    parent2(max_ind1,pind-128)=0;
+    
+    [max_val2,max_ind2]=max(parent2(:,pind-128));
+    parent2(max_ind2,pind-128)=0;
+    
+    if(a_read(z)==0)
+        pind=max_ind1;
+    else
+        pind=max_ind2;
+    end
+    
+    if(pind<129)
+        fprintf(fi5,"%c",pind);
+        pind=root;
+        parent2=parent3;
+    end
+end
+
+fi6=fopen('File_2_decode.txt','r');
+a2=fscanf(fi6,"%c");
+asc2=double(a2);
+
+err=max(abs(asc-asc2));
+
+uni=unique(asc);
+size_of_file=length(a)*log2(
+
+size_of_encoded=length(a_read);
+        

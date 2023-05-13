@@ -1,0 +1,6 @@
+\sample{type=mcq(3)}{#=2}{diff in 1.5,3.5}
+\sample{type=mcq(4)}{#=3}{diff in 1.0,4.0}
+\sample{type=mcq(5)}{#=2}{diff in 2,4.9}
+\sample{type=fitb}{#=4}{diff in 0.0,3.8}
+\sample{type=tf}{#=4}{diff in 1.0,4.3}
+\sample{type=num}{#=4}{diff in 2.0,3.0}
