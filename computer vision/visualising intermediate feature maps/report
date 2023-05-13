@@ -1,0 +1,39 @@
+colab was used for the implementation
+QUESTION-1
+ i used a 3 layer model. it took 5 mins to run with f1_score as 0.79.
+ epochs=50, batch_size=80
+
+QUESTION-2
+I used a cat image( being used from the drive)
+layers 1 and 5 and printed in the notebook
+execution time: 14secs
+
+QUESTION-3
+a-) 
+on just increasisng the cnn layer by 1 :
+more faetures seem to be able to be detected
+f1-score = 0.8014200249765828
+on just increasisng the mlp layer by 1 :
+overfittibng might have occured
+f1-score = 0.7833344059866779
+
+total execution time= 12mins
+
+b)-)i increased the size
+f1-scor = 0.8075156208761247
+execution time= 8mins
+
+c)-)on not using the dropout-
+f1_score = 0.7299340911541697
+execution time = 4mins
+
+d)-) the final layers are more pixeled and more in number compared to the initial layers.
+
+f)-) on increaseing the batch size, the execution time decreases and the accuracy decreases, 
+    on incereasing the epoch, the execution time increases and the accuracy increases.
+
+
+QUESTION -4
+CODE IS DONE...
+execution took 13mins
+
