@@ -1,0 +1,18 @@
+Report
+sreya garapati
+2020102055
+
+question-1
+the problem was to combine 2 images such that one forms a T shape on the other.
+To solve this, i did image slicing.
+i took 2 rectange areas and coppied the img1 to img2.
+
+question-2
+the problem was to divide an video into images then combine the images into a video.
+i took frames from the video and saved them as images in the data directory.
+then took the images and converted them into an video.
+when the frame rate is increased the video speed will also incerease.
+
+question-3
+the probem was to capture images from the camera 
+this was done in the tutorial.
